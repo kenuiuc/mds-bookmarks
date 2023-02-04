@@ -10,3 +10,4 @@
 - [Intro to CoxPH Model](https://youtu.be/aETMUW_TWV0)
 - [Assumptions for CoxPH](https://youtu.be/QAgtZKpKj9M)
 - [CoxPH Modeling in R](https://youtu.be/TrS2M5imOt8)
+- [Cox Regression Tutorial](https://ubc.zoom.us/rec/play/krqP7ZCzCXHPtCwBxvuzGtAWFVdhijfxgtMvsiWMnfXT4Pau53gk4QOGcrmm7umFQkuQpF2HjyrFsCER.ZNGU9Qy7KIsKiTWb), `hvGq^Q82`
