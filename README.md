@@ -10,4 +10,7 @@
 - [Intro to CoxPH Model](https://youtu.be/aETMUW_TWV0)
 - [Assumptions for CoxPH](https://youtu.be/QAgtZKpKj9M)
 - [CoxPH Modeling in R](https://youtu.be/TrS2M5imOt8)
-- [Cox Regression Tutorial](https://ubc.zoom.us/rec/play/krqP7ZCzCXHPtCwBxvuzGtAWFVdhijfxgtMvsiWMnfXT4Pau53gk4QOGcrmm7umFQkuQpF2HjyrFsCER.ZNGU9Qy7KIsKiTWb), `hvGq^Q82`
+- [Alexi Cox Regression Tutorial](https://ubc.zoom.us/rec/play/krqP7ZCzCXHPtCwBxvuzGtAWFVdhijfxgtMvsiWMnfXT4Pau53gk4QOGcrmm7umFQkuQpF2HjyrFsCER.ZNGU9Qy7KIsKiTWb), `hvGq^Q82`
+
+### Lecture 7 Quantile Regression
+- [Alexi Lecture](https://ubc.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=a8cdd616-9057-47c1-8526-af5b01403209)
