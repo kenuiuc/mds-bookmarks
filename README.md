@@ -14,3 +14,4 @@
 
 ### Lecture 7 Quantile Regression
 - [Alexi Lecture](https://ubc.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=a8cdd616-9057-47c1-8526-af5b01403209)
+- [pop data bc webniar](https://youtu.be/b6HMdUe9gy4)
