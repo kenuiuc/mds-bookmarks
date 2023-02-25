@@ -10,8 +10,12 @@
 - [Intro to CoxPH Model](https://youtu.be/aETMUW_TWV0)
 - [Assumptions for CoxPH](https://youtu.be/QAgtZKpKj9M)
 - [CoxPH Modeling in R](https://youtu.be/TrS2M5imOt8)
-- [Alexi Cox Regression Tutorial](https://ubc.zoom.us/rec/play/krqP7ZCzCXHPtCwBxvuzGtAWFVdhijfxgtMvsiWMnfXT4Pau53gk4QOGcrmm7umFQkuQpF2HjyrFsCER.ZNGU9Qy7KIsKiTWb), `hvGq^Q82`
 
 ### Lecture 7 Quantile Regression
-- [Alexi Lecture](https://ubc.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=a8cdd616-9057-47c1-8526-af5b01403209)
 - [pop data bc webniar](https://youtu.be/b6HMdUe9gy4)
+
+## DSCI 574
+### Lecture 2 Forecasting
+- [Single Exp Smoothing](https://youtu.be/rUOnMNHXgSE)
+- [Double Exp Smoothing](https://youtu.be/w0mII8mpy54)
+- [Triple Exp Smoothing](https://youtu.be/XZp8UW9mEfw)
